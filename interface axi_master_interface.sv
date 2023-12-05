@@ -2,7 +2,7 @@
 
 
   `ifndef AXI4_IF_INCLUDED_
-	`define AXI4_IF_INCLUDED_
+  `define AXI4_IF_INCLUDED_
 
   	interface axi_master_interface(input clk,rst);
      //Declare all output and ouput signals as logic
